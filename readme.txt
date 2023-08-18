@@ -1,41 +1,49 @@
-echo "# Wordpress-Whatsapp-Destek" >> README.md
-Contributors: Furkan Altıntaş
-Tags: wordpress whatsapp destek, whatsapp destek, Whatsapp, Whatsapp icon
-Requires at least: 2.0
-Tested up to: 5.8
-Stable tag: 1.0.0
-License: GPL-3.0
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+# Wordpress Whatsapp Destek Eklentisi
 
-Eklenti Wordpress için oluşturduğumuz bir Whatsapp destek ikonu oluşturmaktadır Bu eklenti aktif edildiğinde "wp_head" kancasından erişir ve sitenizin sol alt kısmına whatsapp destek ikonu ekler. 
+Bu eklenti, Wordpress 6.3 ve üzeri sürümlerle uyumlu çalışan bir Whatsapp destek ikonunu sitenize eklemenizi sağlar.
 
-== Description ==
-Eklenti Wordpress için oluşturduğumuz bir Whatsapp destek ikonu oluşturmaktadır Bu eklenti aktif edildiğinde "wp_head" kancasından erişir ve sitenizin sol alt kısmına whatsapp destek ikonu ekler. 
+- Stabil Versiyon: 2.0.0
+- Lisans: GPL-3.0
+- Lisans Bilgileri: [GPL-3.0 Metni](https://www.gnu.org/licenses/gpl-3.0.html)
 
-== Kurulum ==
+## Açıklama
+
+Eklenti, sitenizin sol alt kısmına Whatsapp destek ikonu ekleyen özelleştirilebilir bir eklentidir. Eklenti, "wp_head" kancasından erişir ve sitenizin görünümünü güzelleştirmenize yardımcı olur.
+
+## Kurulum
+
 1. Eklenti klasörünü `wp-content/plugins/` dizini altına yükleyin.
-2. WordPress yönetici panelinden "Eklentiler" sayfasına gidin ve "Whatsapp Destek" eklentisini etkinleştirin.
-3. Eklentinin kullanımı için gereken ayarlar, Yönetici panelinizdeki "Whatsapp Destek" sayfasında yapılandırılabilir.
+2. Wordpress yönetici paneline gidin ve "Eklentiler" sayfasına tıklayın.
+3. "Whatsapp Destek" eklentisini etkinleştirin.
+4. Eklenti ayarlarını yönetici panelinizdeki "Whatsapp Destek" sayfasında yapılandırabilirsiniz.
 
-== Sıkça Sorulan Sorular ==
-Burada kullanıcıların sıkça sorduğu soruları ve cevaplarını ekleyebilirsiniz.
+## Sıkça Sorulan Sorular
 
-== Ekran Görüntüleri ==
-1. Ekrangörüntüsü-1.png: Açıklama ekran görüntüsü 1
-2. Ekrangörüntüsü-2.png: Açıklama ekran görüntüsü 2
+1. Sadece 1 görünüm mü mevcut? 
+   - Eklentinin 2.0 sürümüyle birlikte bir görünüm sunulmaktadır. Ancak, gelecekteki güncellemelerde daha fazla görünüm eklenecektir.
 
-== Değişiklik Günlüğü ==
-= 1.0 =
-* İlk sürüm yayınlandı.
-= 2.0 =
-* Yapılandırma ayarları panele eklendi.
+2. Eklenti için ücret talep edilecek mi?
+   - Hayır, eklenti ücretsiz olarak sunulmaktadır. Bizim için en büyük destek, [GitHub sayfamızı](https://github.com/sfawt/Wordpress-Whatsapp-Destek) ziyaret ederek projemize katılmak ve desteklemektir.
 
-== Katkıda Bulunanlar ==
-* Furkan Altıntaş <info@furkanaltintas.com.tr>
+## Ekran Görüntüleri
 
-== Lisans ==
-Eklenti Adı, GPL-3.0 lisansı altında dağıtılmaktadır.
-Lisansın tam metnine https://www.gnu.org/licenses/gpl-3.0.html adresinden ulaşabilirsiniz.
+1. ![Admin Panel Görünümü](ekrangoruntusu1.png)
+2. ![Site Görünümü](ekrangoruntusu2.png)
 
-== Yapılacaklar ==
-- Eklenti her güncellemesinde yeni bir tasarım eklenecek ve eklenen tasarımlar panelden seçilebilir hale gelecektir.
+## Değişiklik Günlüğü
+
+### 1.0
+
+- İlk sürüm yayınlandı.
+
+### 2.0
+
+- Yapılandırma ayarları paneline eklendi.
+
+## Lisans
+
+Bu eklenti GPL-3.0 lisansı altında dağıtılmaktadır. Lisansın tam metni için [burayı ziyaret edebilirsiniz](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## Yapılacaklar
+
+- Her güncellemeyle birlikte yeni tasarımlar eklenecek ve panelden seçilebilir hale gelecektir.
