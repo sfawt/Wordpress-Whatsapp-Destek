@@ -1,0 +1,424 @@
+/* whatsapp-destek.css */
+.whatsapp-icon-link {
+  display: inline-block;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: #fff;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.wassenger .dVYIqU {
+    display: inline-block;
+    position: fixed;
+    bottom: 0px;
+    z-index: 9999999;
+    right: 0px;
+    left: auto;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+.wassenger .eapp-whatsapp-chat-root-layout-component,.wassenger .eapp-whatsapp-chat-root-layout-component * {
+    box-sizing: border-box !important;
+    outline: none !important;
+}
+
+.wassenger .llcnCH {
+    box-shadow: #000 0px 12px 24px 0px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: opacity 0.3s ease 0s, margin 0.3s ease 0s, visibility 0.3s ease 0s;
+    background-color: #fff;
+    transform: translate3d(0px,0px,0px);
+    opacity: 1;
+    pointer-events: all;
+    visibility: visible;
+    touch-action: auto;
+    margin-bottom: 96px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: auto;
+    margin-right: 20px;
+}
+
+.wassenger .drfHxL {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    width: 20px;
+    height: 20px;
+    opacity: 0.4;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    outline: transparent;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.wassenger .drfHxL::before,.wassenger .drfHxL::after {
+    content: "";
+    position: absolute;
+    width: 12px;
+    height: 2px;
+    background-color: #fff;
+    display: block;
+    border-radius: 2px;
+}
+
+.wassenger .drfHxL::before,.wassenger .drfHxL::after {
+    content: "";
+    position: absolute;
+    width: 12px;
+    height: 2px;
+    background-color: #fff;
+    display: block;
+    border-radius: 2px;
+}
+
+.wassenger .drfHxL::before {
+    transform: rotate(45deg);
+}
+
+.wassenger .drfHxL::after {
+    transform: rotate(-45deg);
+}
+
+.wassenger .kdxbgZ {
+    background: #095e54;
+    color: #111;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 24px 20px;
+}
+
+.wassenger .eZEgcx {
+    width: 52px;
+    height: 52px;
+    display: block;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.wassenger .eZEgcx::before {
+    content: "";
+    bottom: 0px;
+    right: 0px;
+    width: 12px;
+    height: 12px;
+    box-sizing: border-box;
+    background-color: #4ad504;
+    display: block;
+    position: absolute;
+    z-index: 1;
+    border-radius: 50%;
+    border: 2px solid #095e54;
+}
+
+.wassenger .jtCmja {
+    min-width: 100%;
+    height: 100%;
+    flex-shrink: 0;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url(https://uifaces.co/our-content/donated/N5PLzyan.jpg);
+}
+
+.wassenger .izlSME {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.wassenger .izlSME::after {
+    border-radius: 50%;
+    border: 1px solid rgba(0,0,0,0.1);
+    inset: 0px;
+    position: absolute;
+    content: "";
+    overflow: hidden;
+}
+
+.wassenger .hhASjW {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.wassenger .hDGnqR {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #fff;
+}
+
+.wassenger .ioFWLq {
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 4px;
+    color: #fff;
+}
+
+.wassenger .ewIAEB::before {
+    display: block;
+    position: absolute;
+    content: "";
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+    opacity: 0.08;
+    background-image: url(https://elfsight.com/assets/chats/patterns/whatsapp.png);
+}
+
+.wassenger .cWUfUj {
+    display: flex;
+    z-index: 1;
+}
+
+.wassenger .iNguXd {
+    background-color: #fff;
+    width: 52.5px;
+    height: 32px;
+    border-radius: 16px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 10px;
+    opacity: 0;
+    transition: all 0.1s ease 0s;
+    z-index: 1;
+    box-shadow: #000 0px 1px 0.5px;
+}
+
+.wassenger .kYdave {
+    position: relative;
+    display: flex;
+}
+
+.wassenger .eMFEyG {
+    height: 5px;
+    width: 5px;
+    margin: 0px 2px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    animation-duration: 1.2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    top: 0px;
+    background-color: #9e9da2;
+    animation-name: dJHihm;
+}
+
+.wassenger .jAqeVd {
+    height: 5px;
+    width: 5px;
+    margin: 0px 2px;
+    background-color: #b6b5ba;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    animation-duration: 1.2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    top: 0px;
+    animation-name: goHzKU;
+}
+
+.wassenger .CPQqS {
+    height: 5px;
+    width: 5px;
+    margin: 0px 2px;
+    background-color: #b6b5ba;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    animation-duration: 1.2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    top: 0px;
+    animation-name: krEmjx;
+}
+
+.wassenger .ewIAEB {
+    padding: 20px 20px 20px 10px;
+    background-color: #e6ddd4;
+    position: relative;
+    overflow: auto;
+    max-height: 382px;
+}
+
+.wassenger .dSUAOZ {
+    padding: 7px 14px 6px;
+    background-color: #fff;
+    border-radius: 0px 8px 8px;
+    position: relative;
+    transition: all 0.3s ease 0s;
+    opacity: 0;
+    transform-origin: center top;
+    z-index: 2;
+    box-shadow: #000 0px 1px 0.5px;
+    margin-top: 4px;
+    margin-left: -54px;
+}
+
+.wassenger .dSUAOZ::before {
+    position: absolute;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAmCAMAAADp2asXAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACQUExURUxpccPDw9ra2m9vbwAAAAAAADExMf///wAAABoaGk9PT7q6uqurqwsLCycnJz4+PtDQ0JycnIyMjPf3915eXvz8/E9PT/39/RMTE4CAgAAAAJqamv////////r6+u/v7yUlJeXl5f///5ycnOXl5XNzc/Hx8f///xUVFf///+zs7P///+bm5gAAAM7Ozv///2fVensAAAAvdFJOUwCow1cBCCnqAhNAnY0WIDW2f2/hSeo99g1lBYT87vDXG8/6d8oL4sgM5szrkgl660OiZwAAAHRJREFUKM/ty7cSggAABNFVUQFzwizmjPz/39k4YuFWtm55bw7eHR6ny63+alnswT3/rIDzUSC7CrAziPYCJCsB+gbVkgDtVIDh+DsE9OTBpCtAbSBAZSEQNgWIygJ0RgJMDWYNAdYbAeKtAHODlkHIv997AkLqIVOXVU84AAAAAElFTkSuQmCC);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    content: "";
+    top: 0px;
+    left: -12px;
+    width: 12px;
+    height: 19px;
+}
+
+.wassenger .acKCA {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 18px;
+    color: rgba(0,0,0,0.4);
+}
+
+.wassenger .hOnFlx {
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 4px;
+    color: #111;
+}
+
+.wassenger .dPhWdq {
+    text-align: right;
+    margin-top: 4px;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgba(17,17,17,0.5);
+    margin-right: -8px;
+    margin-bottom: -4px;
+}
+
+.wassenger .jwwAjt {
+    padding: 8px 12px;
+    border-radius: 20px;
+    border: none;
+    background: #4fce5d;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 20px;
+    overflow: hidden;
+    appearance: none;
+}
+
+.wassenger .hqtxZK {
+    height: 64px;
+    box-shadow: #000 0px 3px 12px;
+    border-radius: 50%;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    outline: transparent;
+    background-color: #fff;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 64px;
+}
+
+.wassenger .jkaHSM {
+    width: 16px;
+    height: 16px;
+    flex: 0 0 16px;
+    fill: #fff;
+    z-index: 1;
+}
+
+.wassenger .hqsrSh {
+    margin-left: 8px;
+    margin-right: 8px;
+    z-index: 1;
+    color: #fff;
+}
+
+.wassenger .Window__WindowComponent-sc-17wvysh-1 a {
+    text-decoration: none;
+}
+
+.wassenger .Window__WindowComponent-sc-17wvysh-1 a:hover,.wassenger .Window__WindowComponent-sc-17wvysh-1 a:focus {
+    text-decoration: underline;
+}
+
+.wassenger .hqtxZK::before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    background-color: #f00;
+    display: block;
+    position: absolute;
+    z-index: 1;
+    border-radius: 50%;
+    right: 4px;
+    top: 4px;
+}
+
+.wassenger .eapp-whatsapp-chat-root-layout-component a {
+    text-decoration: none;
+}
+
+.wassenger .djUbPg {
+    box-shadow: #000 0px 12px 24px 0px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+    touch-action: none;
+    visibility: hidden;
+    transition: opacity 0.3s ease 0s, margin 0.3s ease 0s, visibility 0.3s ease 0s;
+    background-color: #fff;
+    transform: translate3d(0px,0px,0px);
+    margin-bottom: 80px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: auto;
+    margin-right: 20px;
+}
